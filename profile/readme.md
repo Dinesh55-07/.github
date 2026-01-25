@@ -44,7 +44,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 37 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 38 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 39 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-40 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+40 | Priyadarshini P | [Github](https://github.com/priyadarshini-tech-maker/leetcode-solutions) | [Leetcode](https://leetcode.com/u/panchanathanpriya40/) | ![](https://leetcard.jacoblin.cool/panchanathanpriya40) 
 41 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 42 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 43 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
